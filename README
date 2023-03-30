@@ -1,0 +1,18 @@
+Ruth Shiferaw (rshifer1)
+Kalista Fong (kfong4)
+
+Summary of Ruth Shiferaw's contributions:
+Ruth worked on implementing functions and debugging them after they were implemented. She was responsible for the C, T, I, W, and V commands in particular. She worked with her partner to brainstorm an approach to the project, and the different ways the different commands could be modularized. She also collaborated with Kalista to help complete the functions she was working on too.
+
+Summary of Kalista Fong's contributions:
+Kalista worked on implementing functions and collaborating with her partner to understand what is required of the project, and the different possible ways of achieving those requirements. She was responsible for the P, S, K, V, and Q commands. However, she collaborated with Ruth on the functions Ruth was responsible for as well.
+
+Interesting aspects about the implementation:
+The implementation process of the project was certainly a huge learning experience for Ruth and Kalista. After the two group members had completed the project, they reflected on their process of completion and realized the importance of testing different functions throughout the implementation process rather than all at the end as they had done for this project. Other interesting aspects about their project is that there were several issues throughout their coding process that they were able to fix by the end. Some of the most difficult issues they had are as follows:
+1. They had a difficult time trying to figure out why their W command was not working properly. At first it was because the .ppm and .txt filenames were being stored with a (hard to detect) '\n' at the end due to the format of the input .txt file. The second reason is because they had a difficult time coding the portion of the W command that is responsible for taking the original image and saving it as a scrambled image.
+2. Our code had a bug that would occasionally print "segmentation fault (core dumped)" when the program is ran. We determined it was due to one line of code within our W command function that needed to be rearranged to account for this issue.
+3. We had a hard time getting our Valgrind errors to zero. We had more than 1,000 reported errors at one point, but we were able to reduce the errors to one error.
+4. In general, this project was a challenging, yet insightful and educational experience.
+
+Any functions working improperly:
+Our V command does not completely function the way it is meant to. We realize this. We tried our best to follow the provided pseudocode and implement the function responsible for the V command, but it does not properly update the steps char array with the valid solutions for unscrambling a puzzle. We also attended office hours, but to no avail to finding the cause of the problem. If anyone catches the bug, please let us know!

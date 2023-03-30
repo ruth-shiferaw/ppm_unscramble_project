@@ -1,0 +1,1081 @@
+commit 3f6a57233b0c355c1a10a9aeb3320b32c1d61720
+Merge: 9861988 e00c896
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 21:59:10 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 9861988b00c73055da953a31ecfb8b07e605ac0c
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 21:57:50 2023 -0400
+
+    minor changes to puzzle.c and puzzle_funcs.c
+
+commit e00c89610258741f88691a0aa810b084239cc938
+Merge: e4cb0a3 edb9cf9
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 21:52:44 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit e4cb0a3cbd283ac0429799591a3f74c1ea9a37c4
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 21:51:59 2023 -0400
+
+    fixing gradescope errors
+
+commit edb9cf9d950757348d8900c67df0aaf89bc6087a
+Merge: aeda890 3cd60b1
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 21:48:37 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 2681f4ca292923cb6ed51b0fff5a4dcfcfb0191f
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 21:33:12 2023 -0400
+
+    fixing gradescope errors
+
+commit aeda8909308c4aaf4eed12e7793d6efcf0663398
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 21:28:12 2023 -0400
+
+    finished readme and fixed some autograder problems.
+
+commit 3cd60b1ee0e3f0c85cf0f63a91424512c4602c3f
+Merge: 5832709 b043a73
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 21:22:11 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 5832709610d064bc5826ea5ebe876fc1f433a2ef
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 21:20:58 2023 -0400
+
+    Merging work to turn in
+
+commit b043a73ab889c6615483cd323e00304e96b4f205
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 20:53:14 2023 -0400
+
+    trying to fix autograder issues
+
+commit 0654b0cabff6318924f7756da19a25a1faeb6835
+Merge: bc97a18 9c8ebca
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 20:21:30 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit bc97a1860b2d60b2eb666f7b74a9040485c4cb98
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 20:20:59 2023 -0400
+
+    merging changes
+
+commit 9c8ebca28a48ca7e2ee1bf7e9f1b8c4c8a4ec9e5
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 19:43:09 2023 -0400
+
+    restoring the best previous version of v command function
+
+commit be13a6d02e9059fbd71e406eb89e1a9d69ccc3d8
+Merge: 6abcea8 e7c6eee
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 19:28:13 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 6abcea8c79b11c5cd81ac46260686c56f461bceb
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 19:27:53 2023 -0400
+
+    trying to fix V command
+
+commit e7c6eee7d0442030c1d48b2ce2fb1216582ac266
+Merge: 19b5d8b d104ec2
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 19:14:13 2023 -0400
+
+    merged changes
+
+commit 19b5d8bdf720d2c8a5d2607e7b92c48df216970f
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 19:10:35 2023 -0400
+
+    fixing V command
+
+commit d104ec2431110b1e35cba072a07c613f35429b5a
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 18:01:51 2023 -0400
+
+    updating v command.
+
+commit 923ca42ab2763ff896e82e575cbed03585cdaa14
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 16:14:24 2023 -0400
+
+    slight updates to v command.
+
+commit 0ba9b94a3e3f0fb2e06763ac675fcf60e1af85bc
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 15:30:04 2023 -0400
+
+    made changes to v command. it's not working yet, but there has been progress.
+
+commit 57605ec187ca8a4498641cb7f30964b4abb95559
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 14:18:36 2023 -0400
+
+    segmentation fault error is fixed! fixing components of v now.
+
+commit 19af2ca934df9b1fac32227850d6cde64303e665
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 13:21:21 2023 -0400
+
+    fixing V command, pushing changes
+
+commit 2f5055ed8c17bc6ca575efd0264fa8eb7a8b476f
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 08:36:02 2023 -0400
+
+    trying to push still
+
+commit 0c0a503faae5dd253690451e3892cfba44f952eb
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 08:22:16 2023 -0400
+
+    trying again to push
+
+commit 71ccdadda6fab59e669d6cb0ca6f1c42b12afa0d
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 08:20:01 2023 -0400
+
+    trying to error handle for V command
+
+commit a663dd04002db22d31b63f49f5d2988a63595dd0
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 27 07:37:58 2023 -0400
+
+    working on test fuction
+
+commit d0d94fe1ad73d859188499aabaebfef3ab32a5d1
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 02:17:04 2023 -0400
+
+    segmentation fault issue still occurs, but program outputs what is expected (except for v command). started puzzle_tests.c
+
+commit 02c4b84e221d20c66547e7edd2e844ed89e3ba5c
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 27 00:47:31 2023 -0400
+
+    v is implemented but not completely working yet
+
+commit 2f5f2c00873d577bf7e9301bee7c6ad961484825
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 26 22:16:38 2023 -0400
+
+    added function comments in header file.
+
+commit a8a4d3052d43ec5f173982bc3c03810971d43b19
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 26 19:40:05 2023 -0400
+
+    working on v command
+
+commit f9f39619e4807da97cf13154a7ecc70e162b3828
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 26 18:09:01 2023 -0400
+
+    added missing error checks.
+
+commit fc65a0bb0d3071cbc1ad29afbe11a46b49f71b2e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 26 06:58:47 2023 -0400
+
+    making sure all files are closed.
+
+commit 69442c8d5e947cc4e4d42116346c11ccd785678b
+Merge: 988ef7c 0353911
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 25 21:36:35 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 988ef7c12175cf7ae1a6d49775c58acb2712941e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 25 21:35:27 2023 -0400
+
+    restoring original version of test03.txt and adding comments to main func
+
+commit 0353911296cef4ba3eda67ba6c46cc5fce442195
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 25 17:51:37 2023 -0400
+
+    Started working on V command
+
+commit a7e2eab693582ccb47deb4f69193b8c2b3073cb4
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 25 17:18:12 2023 -0400
+
+    Fixed W command./puzzle test06.txt We have a perfectly scrambled image now
+
+commit 0335156d3bac701f3148e066f87d7e84d7f1a028
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 25 16:22:40 2023 -0400
+
+    fixed S command
+
+commit 30641f2bda296d32f79561af64bf6210f24ab21e
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 25 14:47:22 2023 -0400
+
+    fixing S command
+
+commit 0bc2a4f69265d6f8ede1cd12b15bf0a8ab41cba4
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 25 14:17:24 2023 -0400
+
+    restoring old version of S command.
+
+commit 96b2cc031036e021dd4590412e1cd65711819d5c
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 25 03:28:44 2023 -0400
+
+    trying to fix functionality and segnmentation fault errors in S command.
+
+commit 347fce6dc69052397337e7a6b0021c8afa819ab9
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 25 02:11:49 2023 -0400
+
+    restoring content of test03.txt
+
+commit f2664705237c985ad4d468dc9f391b966108d363
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 25 02:09:14 2023 -0400
+
+    segmentation fault errors in K command are fixed!
+
+commit fb44deec33ec35986a4c9fc3f5c78c321b28f767
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 24 20:25:59 2023 -0400
+
+    pushing through latest updates. left to-do messages.
+
+commit 771769ce75af6b3ffe9773d30cda3c2530c16ebf
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 24 19:28:56 2023 -0400
+
+    the first half of w command responsible for taking the 2 file names and writing the image and puzzle config info is working now!
+
+commit 4c659ac3ff879cbc5fb9d7a604d73ba2aa148538
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 24 17:26:30 2023 -0400
+
+    fixed memory leak issue in w function.
+
+commit aed83b9513fa04023757384f312e7d108fbb09e4
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 24 15:59:07 2023 -0400
+
+    all errors with C, T, and I commands are fixed. W is still malfunctioning.
+
+commit 35215c8b52f28e512a01bf0d357e8d3e25705b23
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 24 05:50:57 2023 -0400
+
+    trying to fix error message that is triggered at the last iteration of the T command loop
+
+commit 57d73217348116bf7bf83b0081ab9c12b151e275
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 24 02:23:37 2023 -0400
+
+    trying to fix T command triggering error message
+
+commit 24f1065a40975316b31f3b5c3f231ee0d6fe83e3
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 24 01:55:31 2023 -0400
+
+    fixing the way the ppm file is read inside I command function
+
+commit e784a2bf42f472a5e9e4203d38b6289813927c45
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 23 16:38:27 2023 -0400
+
+    adding new files to repo
+
+commit b428142979a591c4a87cc1006464c79b65bfbdd1
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 23 16:36:09 2023 -0400
+
+    trying to fix segmentation fault issue
+
+commit 5132aad0703cca54f4a8d84107937549afd27db8
+Merge: 7119207 b9dcd62
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 22 22:42:34 2023 -0400
+
+    fixing merging issues
+
+commit 7119207e67831d7730bcb939fb817e415b3687ff
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 22 22:40:50 2023 -0400
+
+    working on puzzle_funcs
+
+commit b9dcd62c7e4fe945f7600d9a06019c2e9a27d7ed
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 19 23:40:23 2023 -0400
+
+    Modifying makefile and supporting functions
+
+commit 13df49f75603ef78cea7f64c8ad2f4ef1cfa916d
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 19 16:18:20 2023 -0400
+
+    Error handling with W and I command
+
+commit 3b715bada8d54f7960f6d27fb8177dc29a8b188a
+Merge: 86d2ef4 acb31c3
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 18 14:03:57 2023 -0400
+
+    working on logic of I command
+
+commit 86d2ef408bbbc506765c2e2ef89d217411506536
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 18 14:01:19 2023 -0400
+
+    fixing merging issues
+
+commit acb31c3ffec8181b29ae2c47828b2eb03126672b
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 18 09:50:35 2023 -0400
+
+    working on I command
+
+commit 36ac855a84e6141a8ce7ab9fd4aa543629fd3c67
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 17 13:18:12 2023 -0400
+
+    fixing I command
+
+commit 5919dcf64d6cf9a195c1770f87c41313fabe539a
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Fri Mar 17 13:09:40 2023 -0400
+
+    Fixing W Command
+
+commit e26d4999620f376ce4de46d3b23f8ae9bb482092
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 17 12:57:05 2023 -0400
+
+    working on main
+
+commit e9adb707432cb1f67738b45b7abeda14d3625c88
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Fri Mar 17 12:51:59 2023 -0400
+
+    fixing main
+
+commit 4f62ec40edfec8f57f12f9c373d945e73bea5e46
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 15:43:29 2023 -0400
+
+    Fixed Switch case invalid input error
+
+commit ec03e32a957d7cb3a9f0324921fc099f31a7adf8
+Merge: 41b798d 5a6176e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 13:21:03 2023 -0400
+
+    fixing merging isssues
+
+commit 41b798dff1a024b4d329762f7b5cc984e8b78f58
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 13:19:39 2023 -0400
+
+    fixing w command
+
+commit 5a6176e3d79d80ed06969aad6f47bc0f1de956a0
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 13:19:24 2023 -0400
+
+    Went through compilation errors and fixed W command
+
+commit f64b137ccb110358e9975ff43c13ad3572ab553c
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 13:17:07 2023 -0400
+
+    Fixed code in W for iterating through image
+
+commit 59df626899fe48418fc0958956b286fe8c61d3d9
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 13:03:22 2023 -0400
+
+    Merging work for W
+
+commit c5151ac5263a3057a2ae4ac95d3b501f7b07de58
+Merge: 70d2fcc 62273bb
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 12:53:16 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 70d2fcc5b7779d4ad7a674e38c1b7aaa1056a68e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 12:53:07 2023 -0400
+
+    major updates to W command
+
+commit 62273bbb0b477f0348e5179f75e5b3566067903d
+Merge: b5e3c94 85c37ae
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 12:26:42 2023 -0400
+
+    Merging work on W command
+
+commit 85c37ae4ab22a2f6ce566f85a4203e0cd00ba5e5
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 12:25:27 2023 -0400
+
+    working on w function
+
+commit ef15975551da5e1e82d6f361aac46899432cb32c
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 11:59:53 2023 -0400
+
+    minor changes
+
+commit b5e3c944bc9442f8851291b3c06f4bd4d656694b
+Merge: f134022 e9c7f15
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 11:58:31 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit e9c7f153b812180a69fead243b617d12cd0ed0a2
+Merge: bf9f6d1 715d94a
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 11:58:08 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit f134022f9d311062de1f9248af909271054a0c53
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 11:58:02 2023 -0400
+
+    merging work
+
+commit bf9f6d13e194e12134fa48ec0846e2bac6be35a3
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 11:58:01 2023 -0400
+
+    working on W command
+
+commit 51d8ea50926c08195976f28c77581594b9eb0cd0
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 11:28:03 2023 -0400
+
+    pushing most current changes
+
+commit 715d94af21af6090bd498ef88e0dac3a9f56c45c
+Merge: d09dcee 05e1943
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 11:03:06 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit d09dceec360bed6bfaa77be1ed1861f6cc079024
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 11:02:57 2023 -0400
+
+    Finishing off errors from switch case
+
+commit 05e1943244d31f6f23ae942d279f6474195bf9ef
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 11:01:28 2023 -0400
+
+    starting V command
+
+commit 34f0a7f6d100ff25c1a5fefbc0c8dc7657503bd4
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 10:58:01 2023 -0400
+
+    fixing main
+
+commit d05d39deec27c7ed6a78db26103e65279f4cce21
+Merge: 91cd5e5 aae66db
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 10:57:20 2023 -0400
+
+    fixing merging issues
+
+commit 91cd5e50cea636cfaf2b6f887af6715f10d2e350
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 10:54:13 2023 -0400
+
+    fixixng logic of main function
+
+commit aae66db2d74397bd884995d6eb2256fc82545f55
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 10:53:54 2023 -0400
+
+    Fixing logic of main function, merging work
+
+commit 2b4f8fbb5033f43fd897cdd27c2bc00b58cbd7ec
+Merge: 33a6e70 3525694
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 10:42:32 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 33a6e70bc22cdc70628f42809fb0dd9794820a34
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 10:42:28 2023 -0400
+
+    working on main function's logic
+
+commit 35256948958c459fa2fab3dddace9807e4cc8eec
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 10:40:20 2023 -0400
+
+    Fixing code to allow for standard inout
+
+commit fc8cf14bedac87795e594c4b7ba065fe8508b2f7
+Merge: bbe8d06 12f31b3
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 10:38:08 2023 -0400
+
+    merging work
+
+commit bbe8d066286625d8c124f5e124346bda0f228ac4
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Thu Mar 16 10:37:05 2023 -0400
+
+    Merging changes
+
+commit 12f31b3efd88eeea95f61e224f8452a5e7de017f
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 10:36:18 2023 -0400
+
+    fixing logic of main
+
+commit 2d190b4b6ffa4dfbca292bc75a050750c8b18c25
+Merge: a2235f9 fd436d5
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 00:03:47 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit a2235f9c203a0b7c7bfdddff8c3512c2ccdce851
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Thu Mar 16 00:03:41 2023 -0400
+
+    changes to w function
+
+commit fd436d5c3d8f93ca16f81cc77c18b86a925476ca
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 23:58:08 2023 -0400
+
+    Finished S command switch cases
+
+commit 467cfdef2b5515569935742e2696fbca3e4a3188
+Merge: 23f95d7 f77ce54
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 23:23:49 2023 -0400
+
+    merged changes
+
+commit 23f95d7859ac3793f649ad11f6361fa8546f88de
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 23:21:53 2023 -0400
+
+    working on S function, fixed final compiling errors
+
+commit f77ce540274d5edeae86dd6bce7bb239af16c7a5
+Merge: 055068c 56b4268
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 23:21:34 2023 -0400
+
+    merging both versions
+
+commit 055068cd1ca0a67bda8cceb242011cb68560e402
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 23:20:35 2023 -0400
+
+    fixing minor errors.
+
+commit 56b42684588b0507b28c1cc705e90ccf7d1d62b1
+Merge: 52658f1 0a7cd4c
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 23:07:12 2023 -0400
+
+    fixing return statements in puzzle funcs
+
+commit 52658f1d210ea846342620a874e7a4aaf1a424f5
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 23:06:34 2023 -0400
+
+    fixing return statements in puzzle funcs
+
+commit 0a7cd4c370b3552d3d0e4181c1101639bd5cc70e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 23:05:56 2023 -0400
+
+    fixing return statements in functions
+
+commit ee1b1427db81b24bb7c51684aec2e980b84cfb1b
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 23:02:41 2023 -0400
+
+    fixed puzzle_create
+
+commit 27e7f6d9dbe9c946dc4420bf3a416b822e5f2fb1
+Merge: d43c29f 535d949
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 22:59:33 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit d43c29f27fdb31168db2ccda993930da35886a16
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 22:58:17 2023 -0400
+
+    Minor updates.
+
+commit 535d949ec346a49f4aa7a3b7935742eefbef989d
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 22:57:41 2023 -0400
+
+    Fixing more compilation errors from puzzle and puzzle_funcs
+
+commit e312ad8a60d90858314ba7546d928e15e51af4e5
+Merge: 5607f70 5fd989e
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 13:19:39 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 5607f701b51224439cea014b2394f033a5bb0193
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 13:19:28 2023 -0400
+
+    Hashing out errors in makefile still, going through and fixing compiler errors
+
+commit 5fd989e125fb1cef3a544278e4675d155a8f553d
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 13:19:04 2023 -0400
+
+    fixed makefile and other errors.
+
+commit 19b05bda4e63fde6c66293ede7b42417daa4299a
+Merge: 81d7a73 1b5aa30
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 13:10:02 2023 -0400
+
+    merging files.
+
+commit 81d7a7366694d8130e5acc59d48ab3063610d3ec
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 13:09:31 2023 -0400
+
+    Trying to fix puzzle.h file.
+
+commit 1b5aa303a47a6c639dc19dfd02289275ca2454ef
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 13:09:02 2023 -0400
+
+    fixing compiling errors
+
+commit d83fc863068a5e2b10aa0d7a3126e79b27dc6119
+Merge: 64fdff0 27f44e5
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 12:57:46 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 64fdff07e35f7d7732f832bceb20843b6b75689a
+Merge: 0f18eaa 1f6d6e3
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 12:57:32 2023 -0400
+
+    Fixing merging issues with makefile changes.
+
+commit 27f44e5732f113e362e57207ee8bb8f4a3ec0b84
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 12:57:07 2023 -0400
+
+    sending updated real makefile, fixing error
+
+commit 0f18eaa81be7f33ba8501d1a6c8a369144edd48c
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 12:55:14 2023 -0400
+
+    Minor changes.
+
+commit 1f6d6e3e2150497b7c2adb4fe68eff4e49b5f58c
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 12:55:13 2023 -0400
+
+    fixing makefile, pushing changes
+
+commit a5d3425db413a882a4216faafea6f23a81cb368e
+Merge: 41ce304 10e9324
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 12:36:00 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 41ce3044d85e45ec96d21d991da3d3d41cf01233
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 15 12:35:46 2023 -0400
+
+    Updated puzzle.h declarations.
+
+commit 10e9324b4c748c83498f959dda1b135ede6f973d
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 12:34:04 2023 -0400
+
+    updated makefile
+
+commit 0e8702fc78b2c85f54582bfa57ec1a66a20a8c02
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 15 12:00:18 2023 -0400
+
+    work on makefile
+
+commit 16abd8cfef472f33ebbd763470f73c7cf4f15843
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 13 15:51:29 2023 -0400
+
+    Updated s command.
+
+commit db5243bb8cf86e8d8a3b49c464bb12ebb812a9a0
+Merge: 64c7e69 804eaed
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 13 13:49:37 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 64c7e693d1c955c48ef78a597ee8ad3288cbdcb1
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 13 13:49:05 2023 -0400
+
+    Began work on S command, finished u and working on d
+
+commit 804eaed4692ca282f0f648cb733df87a113a329b
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 13 13:24:53 2023 -0400
+
+    General updates.
+
+commit 0dbcb08cd29d4f17628ed6511812e9bd636a7382
+Merge: fc4b2e7 42e9bab
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 13 00:30:26 2023 -0400
+
+    pushing through changes to W command.
+
+commit fc4b2e7561b8a5f603e6f6dace7b27f75e0d5034
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 13 00:28:56 2023 -0400
+
+    Implemented more parts of W command.
+
+commit 42e9bab7b07973d9b397932fbc6902de6f18a43d
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 13 00:24:38 2023 -0400
+
+    fixed error handling/return type of i, fixed error handling in switch case in main
+
+commit 97825fbf9b32b5781dd2e87fca55d3ca2b9890ad
+Merge: e578388 a0ed706
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 13 00:08:20 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit e578388aca6ced3d77c9fbc3ef37c7a63d218bf0
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 13 00:07:54 2023 -0400
+
+    Updated multiple command functions.
+
+commit a0ed706e9253e809da59328371ee51320014b0d4
+Merge: 5885294 cd8fb90
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 13 00:06:34 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 5885294f24f425ec01e6019d680dc10aec241441
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 13 00:06:05 2023 -0400
+
+    added code for k command, called in main
+
+commit cd8fb90a6d9acbd0f18795b1522dab6bd372d742
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 22:54:36 2023 -0400
+
+    Updated main loop in I command function.
+
+commit 26d5d9c07ed917f9a87df986c2fa0b204b5a840b
+Merge: ccee3fe 0b4fdc3
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 12 22:42:39 2023 -0400
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 0b4fdc371c52f69d2fe1bb0523870757aefe0c4a
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 22:42:26 2023 -0400
+
+    Fixing logic of I command function.
+
+commit ccee3fe6e2f48d2424af4e5adafe23de32af140a
+Merge: 4e95759 ed259bb
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 12 22:24:06 2023 -0400
+
+    merging again
+
+commit 4e957592d0ab627b98747d178170d101a2513976
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 12 22:22:46 2023 -0400
+
+    merging changes. fixed minor error in puzzle funcs
+
+commit ed259bb7dc226a33c09d06faefa4506811ef1234
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 22:22:41 2023 -0400
+
+    Changed puzzle_destroy.
+
+commit 067c78bb77358e2a342fee6e99e026a0f70ef28e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 22:21:12 2023 -0400
+
+    Pusing through all updates.
+
+commit f0932f866551a45ee15a0081265f8f9679571777
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 19:52:18 2023 -0400
+
+    Fixed logic errors in T command.
+
+commit fa87c35911943eb15e67cc4dab7b381e163d15f1
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 19:49:44 2023 -0400
+
+    Fixed logic issues in T command.
+
+commit e0fb315fad1d562a0c29cb0972c9f6d23d4d64e1
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 15:31:13 2023 -0400
+
+    Minor changes throughout multiple files.
+
+commit 187a886bc2cfa5135629b34d21721df453c72df4
+Merge: 1d21da9 b3d36dd
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 15:19:40 2023 -0400
+
+    Partially implemented more functions to handle commands for T, I, and P commands.
+
+commit 1d21da973eabf4755e23f53d2dbe4ebb9bbcf878
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 15:16:11 2023 -0400
+
+    Implmented more command functions.
+
+commit b3d36dd1659c0a18acd95da80e68c11d287713ed
+Merge: aad8b08 469ed02
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 12 15:00:28 2023 -0400
+
+    merged work
+
+commit aad8b087dc2a9498c19a3085749d16422fcbf42e
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 12 14:58:45 2023 -0400
+
+    merging changes
+
+commit 469ed02f57605a4cdb69a07ec85668914ae9916e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 13:46:07 2023 -0400
+
+    Added to handle C and T command functions.
+
+commit bc5e7339b038399a07c0eed83718f4acabe44030
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 12:02:30 2023 -0400
+
+    Updated Puzzle struct's fields and changed the logic of the C-command function.
+
+commit 02be1d4a8ce446a145e08cb8ffa523cfbfa728aa
+Merge: 7c1c250 3d6a4eb
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 04:03:22 2023 -0400
+
+    Partially implemented handle T command function.
+
+commit 7c1c2501f36c68eab954c914cdbb858c05a870a7
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 03:59:48 2023 -0400
+
+    Partially implemented T command function.
+
+commit 3d6a4eb95648a2ea1e343f866d421f1df0c8ad4d
+Merge: 21a787e 3d55dbc
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 12 00:11:12 2023 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 21a787e1b461292948cfc8e42f535b0c4ba23a03
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sun Mar 12 00:10:45 2023 -0500
+
+    merging code again
+
+commit 3d55dbc7396ee993f42eccc141463cb76056e66a
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sun Mar 12 00:09:37 2023 -0500
+
+    Finished c command function.
+
+commit 54b729b1e64ffbc0dd47441e9e9f2eebfd486ef8
+Merge: 920b86b 295e8a7
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 11 23:27:21 2023 -0500
+
+    Merging files
+
+commit 920b86b900dfc5b64014f2d2d546f2e3dc77c517
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 11 23:24:41 2023 -0500
+
+    Updating handle c command function.
+
+commit 295e8a733d34afaeed2e85fb1745161c6f1f4411
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 11 23:24:37 2023 -0500
+
+    changed how to get current command for switch statement
+
+commit a33096a263f59178ae8bd78142cdcdd0cfd986f7
+Merge: b62ab6d e1a94e1
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 11 22:30:16 2023 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit e1a94e155af94f6611874f7413c15201c593c5d9
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 11 22:29:11 2023 -0500
+
+    Fixing merging errors.
+
+commit b62ab6d6e4516e34fce1060c1a1add706b5a148a
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 11 22:28:45 2023 -0500
+
+    small changes, merging work
+
+commit 807e2a9f01608864d675c27dc20dcb0d605a9123
+Merge: 0d9be6c 1961106
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 11 22:27:40 2023 -0500
+
+    Pushing through all files and latest updates.
+
+commit 0d9be6c822ef2b1311d1d1447dca4516794d020d
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Sat Mar 11 22:22:14 2023 -0500
+
+    Pushing through latest updates.
+
+commit 196110654135086bc4bb6fed68ea0e6c44c7f0a7
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Sat Mar 11 10:08:16 2023 -0500
+
+    Updating file, getting ready to pull
+
+commit 8d49e60c69a0b7442189aa5978ed35f4b3b6afd8
+Merge: 56cb193 d34588e
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Fri Mar 10 22:29:10 2023 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-spring-midterm-rshifer1-kfong4
+
+commit 56cb1939a1e32119ea07ec69f4bbe0198ae833ca
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Fri Mar 10 22:25:19 2023 -0500
+
+    made minor changes, merging our work
+
+commit d34588eef65bc62d404e8590ac3ed345af717ef5
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Fri Mar 10 22:24:32 2023 -0500
+
+    Pushing through latest updates made to puzzle.h
+
+commit 8e3cbe21d8bd326e19c6e3fefb5e1b6e4cd6fe1f
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Fri Mar 10 21:35:38 2023 -0500
+
+    updated switch case in main, starting to work on functions in ppm
+
+commit 6b24d0fd152b50ade8e75153d6bdbc1ae6eabf92
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 8 13:21:14 2023 -0500
+
+    started adding to main function in  puzzle.c for receiving command line and acting appropriately based on user input.
+
+commit 0a9fdae73dd1ccedbaa03274603f1955db66afe2
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 8 12:35:46 2023 -0500
+
+    pushing through most recent file additions.
+
+commit 5416b15f3f8e4a1624c9331bb55be04b510490cc
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Wed Mar 8 12:30:21 2023 -0500
+
+    adding new files to expected folder.
+
+commit 69f192a2749ca9ad1fb12e1a30d3aab513c8ab7e
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 6 13:15:09 2023 -0500
+
+    added name and jhed
+
+commit e9758b6b1b41b8c765d9cad82783ddb4840dcdb3
+Merge: 6eab738 2f0226e
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 6 13:12:53 2023 -0500
+
+    Version after TA help.
+
+commit 6eab73895b4f3506f90726d95f55835d88896c5d
+Author: Ruth Shiferaw <shiferawruth04@gmail.com>
+Date:   Mon Mar 6 13:02:18 2023 -0500
+
+    Pushing through JHED updates.
+
+commit 2f0226ebae480b938a60801271db5a22f7bd9a1f
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Mon Mar 6 12:59:57 2023 -0500
+
+    testing names
+
+commit f63114fec4b27cd977d6b59698ede4841114c2f8
+Author: Kalista Fong <kalistafong@gmail.com>
+Date:   Wed Mar 1 12:40:20 2023 -0500
+
+    added all starter files for midterm project
